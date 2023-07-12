@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80978485440",
+    "project_id": "memoro-94f16",
+    "storage_bucket": "memoro-94f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80978485440:android:4fa3280f13c8ca95bc8d25",
+        "android_client_info": {
+          "package_name": "com.example.me_mo_ro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80978485440-vfb6al4grudmcv13rpenbg52n6def7vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9BKBzQvQDvbMkTL52eHE78-dlnnvDm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80978485440-vfb6al4grudmcv13rpenbg52n6def7vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
