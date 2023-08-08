@@ -3,6 +3,7 @@ import 'package:get/get.dart';
 import 'package:me_mo_ro/views/home_sc.dart';
 import 'package:me_mo_ro/views/login_sc.dart';
 import 'package:firebase_core/firebase_core.dart';
+
 import 'package:me_mo_ro/views/splash_sc.dart';
 
 void main() async {
